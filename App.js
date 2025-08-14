@@ -2,7 +2,7 @@ import React from 'react';
 import {View, StyleSheet} from 'react-native';
 import MapboxGL from '@rnmapbox/maps';
 
-MapboxGL.setAccessToken('YOUR_MAPBOX_ACCESS_TOKEN');
+MapboxGL.setAccessToken('pk.eyJ1Ijoicm9iemlsbCIsImEiOiJjbWViaDR2djYxMWduMmtweGVzYzB0ZzNxIn0.0JsOldbKfCY3w_aKMjLPnQ');
 
 const App = () => {
   return (
