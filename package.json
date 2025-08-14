@@ -1,0 +1,30 @@
+{
+  "name": "wildnh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robzill/wildnh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/robzill/wildnh/issues"
+  },
+  "homepage": "https://github.com/robzill/wildnh#readme",
+  "dependencies": {
+    "mapbox-gl": "^1.13.3",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-mapbox-gl": "^5.1.1"
+  }, 
+   "devDependencies": {
+    "@react-native-community/cli": "latest",
+  }
+}
