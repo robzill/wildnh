@@ -25,6 +25,7 @@
     },
     "plugins": [
       "expo-router",
+      "@rnmapbox/maps",
       [
         "expo-splash-screen",
         {
@@ -35,6 +36,9 @@
         }
       ]
     ],
+    "extra": {
+      "mapboxAccessToken": "pk.eyJ1Ijoicm9iemlsbCIsImEiOiJjbWViaDR2djYxMWduMmtweGVzYzB0ZzNxIn0.0JsOldbKfCY3w_aKMjLPnQ"
+    },
     "experiments": {
       "typedRoutes": true
     }
